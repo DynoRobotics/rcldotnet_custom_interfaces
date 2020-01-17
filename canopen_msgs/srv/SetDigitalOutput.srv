@@ -1,0 +1,6 @@
+int16 output_index
+string output_name
+bool output_on
+---
+bool success
+string message
